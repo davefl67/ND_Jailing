@@ -1,3 +1,6 @@
+### PLEASE NOTE
+This is the OG jailing script created by @Andyyy7666 for the original version of @ND-Framework for FiveM. This will not work with the current version without some serious work.
+---
 # ND Jailing
 
 ND Jailing is a resource for FiveM servers that allows you to jail players for a specific amount of time with configurable options.
