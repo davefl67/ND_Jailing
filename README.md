@@ -32,11 +32,6 @@ ND Jailing is a resource for FiveM servers that allows you to jail players for a
 To jail a player, use the `/jail` command followed by the player ID, time (in seconds), fine amount, and reason. For example:
 `/jail 2 60 500 Speeding`
 
-
-![image](https://github.com/TheStoicBear/ND_Jailing/assets/112611821/d5704180-94b2-4f68-ae42-b1deba58ef75)
-![jaildiscord](https://github.com/TheStoicBear/ND_Jailing/assets/112611821/608ad6b5-493b-459a-aabf-24ae9e004eb0)
-
-
 This will jail player with ID 2 for 60 seconds, fine them $500, and provide "Speeding" as the reason for the jail.
 
 ## Credits
